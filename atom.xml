@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>静•夜思</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://thinkinnight.github.io/"/>
+  <updated>2020-03-15T23:39:58.960Z</updated>
+  <id>http://thinkinnight.github.io/</id>
+  
+  <author>
+    <name>thinkinnight</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>旅行相关</title>
+    <link href="http://thinkinnight.github.io/2018/05/24/travel/"/>
+    <id>http://thinkinnight.github.io/2018/05/24/travel/</id>
+    <published>2018-05-24T20:46:43.000Z</published>
+    <updated>2020-03-15T23:39:58.960Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1&gt;行李收纳&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;洗漱包&lt;/li&gt;
+&lt;/ol&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Valuable</title>
+    <link href="http://thinkinnight.github.io/2018/05/24/checklist/"/>
+    <id>http://thinkinnight.github.io/2018/05/24/checklist/</id>
+    <published>2018-05-24T14:22:43.000Z</published>
+    <updated>2020-03-15T23:39:58.960Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;将所有希望读的，认为有价值的东西整理出列表。不管是书、源码，还是什么资源。&lt;/p&gt;
+&lt;h1&gt;Books&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;资本论&lt;/li&gt;
+&lt;li&gt;资治通鉴&lt;/li&gt;
+&lt;li&gt;毛泽东思想&lt;/li&gt;
+&lt;li&gt;黑客与画家&lt;/li&gt;
+&lt;li&gt;四大名著&lt;/li&gt;
+&lt;li&gt;
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Android Study</title>
+    <link href="http://thinkinnight.github.io/2018/05/10/Android-Study/"/>
+    <id>http://thinkinnight.github.io/2018/05/10/Android-Study/</id>
+    <published>2018-05-10T20:33:00.000Z</published>
+    <updated>2020-03-15T23:39:58.960Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;book&quot;&gt;Book&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;第一行代码&lt;/li&gt;
+&lt;li&gt;Android编程权威指南&lt;/li&gt;
+&lt;li&gt;Android疯狂讲义&lt;/li&gt;
+&lt;li&gt;Android群英传&lt;/li&gt;
+&lt;li&gt;Android开发艺术探索&lt;/li&gt;
+&lt;/ol&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>资源整理（公开课，书单）</title>
+    <link href="http://thinkinnight.github.io/2018/05/08/MOOC-Resource/"/>
+    <id>http://thinkinnight.github.io/2018/05/08/MOOC-Resource/</id>
+    <published>2018-05-08T09:40:26.000Z</published>
+    <updated>2020-03-15T23:39:58.960Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1&gt;计算机类&lt;/h1&gt;
+&lt;h2 id=&quot;编程入门&quot;&gt;编程入门&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://open.163.com/special/opencourse/cs50.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;哈佛C
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>书籍的选择与如何进行阅读</title>
+    <link href="http://thinkinnight.github.io/2018/05/03/how-to-read-books/"/>
+    <id>http://thinkinnight.github.io/2018/05/03/how-to-read-books/</id>
+    <published>2018-05-03T10:46:43.000Z</published>
+    <updated>2020-03-15T23:39:58.960Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;现在是知识爆炸的时代，看到读书的第一反应是：没有那么多的时间来进行阅读。但是作为终生学习者，又需要不断的补充知识来武装自己。如何在这里面找到一个平衡就非常重要。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;精读&lt;/li&gt;
+&lt;li&gt;泛读&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;原则：&lt;/p&gt;
+&lt;ul&gt;
+&lt;
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>有关心灵修炼的资源</title>
+    <link href="http://thinkinnight.github.io/2018/04/17/Awesome-Knowledge-Mind/"/>
+    <id>http://thinkinnight.github.io/2018/04/17/Awesome-Knowledge-Mind/</id>
+    <published>2018-04-17T09:58:17.000Z</published>
+    <updated>2020-03-15T23:39:58.960Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;最近开始关注心灵方面的修炼，正好遇到一些好的书籍和公开课，一起收集整理一下。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;《高效能人士的七个习惯》&lt;/li&gt;
+&lt;li&gt;《Principle》&lt;/li&gt;
+&lt;li&gt;哈佛大学公开课：幸福课&lt;/li&gt;
+&lt;li&gt;《牧羊少年奇幻之旅》&lt;/li&gt;
+&lt;/ul&gt;
+      
+    
+    </summary>
+    
+    
+      <category term="终生受益" scheme="http://thinkinnight.github.io/tags/%E7%BB%88%E7%94%9F%E5%8F%97%E7%9B%8A/"/>
+    
+      <category term="book" scheme="http://thinkinnight.github.io/tags/book/"/>
+    
+      <category term="心灵修炼" scheme="http://thinkinnight.github.io/tags/%E5%BF%83%E7%81%B5%E4%BF%AE%E7%82%BC/"/>
+    
+      <category term="公开课" scheme="http://thinkinnight.github.io/tags/%E5%85%AC%E5%BC%80%E8%AF%BE/"/>
+    
+  </entry>
+  
+</feed>
